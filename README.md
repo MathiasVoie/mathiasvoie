@@ -1,4 +1,4 @@
-<h2>Hi, I'm Mathias! 👋</h2>
+<h1>Hi, I'm Mathias! 👋</h1>
 
 <p>
 I’m a passionate developer from Norway, and my journey in development began in 2016. I have a strong interest in creating useful, engaging, and well-crafted software. At the moment, I spend much of my time working with React, TypeScript, and Lua, building everything from web applications to game-related tools. Every now and then, I also enjoy developing custom resources for FiveM, combining creativity with technical problem-solving to enhance the gaming experience for players.
@@ -19,4 +19,4 @@ When I’m not working at Iris Salten, you’ll most likely find me immersed in 
 
 <br>
 
-If you want to learn more check out my [Repositories](https://github.com/mathiasvoie?tab=repositories) or send me an email at `mvoiej@outlook.com`!
+If you want to learn more check out my [Repositories](https://github.com/MathiasVoie?tab=repositories) or send me an email at `mathiasvoie@gmail.com`!

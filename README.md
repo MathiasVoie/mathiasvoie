@@ -37,3 +37,9 @@ If you’d like to learn more, feel free to check out my
 <a target="_blank" href="https://github.com/MathiasVoie?tab=repositories">Repositories</a>
 or send me an email at <code>mathiasvoie@gmail.com</code>.
 </p>
+
+<p>
+And if that sounds a little too technical or boring, you can always stalk my 
+<a target="_blank" href="https://www.linkedin.com/in/mathiasvoie">LinkedIn</a>
+instead.
+</p>

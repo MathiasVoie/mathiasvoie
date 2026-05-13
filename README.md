@@ -13,7 +13,7 @@ My primary technologies are React, TypeScript, Lua, and C#, and I enjoy building
 <h2>💼 What I’m Working On</h2>
 
 <p>
-Currently, I work as a Software Developer at <a target="_blank" href="https://iris-salten.no/">Iris Salten</a>, where I contribute to building digital tools that simplify workflows and improve efficiency for employees and external users alike.
+Currently, I work as a Software Developer at <a target="_blank" href="https://iris-salten.no/">Iris Salten IKS</a>, where I contribute to building digital tools that simplify workflows and improve efficiency for employees and external users alike.
 </p>
 
 <p>

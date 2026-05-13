@@ -1,22 +1,39 @@
-<h1>Hi, I'm Mathias! 👋</h1>
+<h1>Hey, I'm Mathias! 👋</h1>
 
 <p>
-I’m a passionate developer from Norway, and my journey in development began in 2016. I have a strong interest in creating useful, engaging, and well-crafted software. At the moment, I spend much of my time working with React, TypeScript, and Lua, building everything from web applications to game-related tools. Every now and then, I also enjoy developing custom resources for FiveM, combining creativity with technical problem-solving to enhance the gaming experience for players.
+I’m a passionate developer from Norway, and my journey in software development began in 2016. I enjoy creating useful, engaging, and well-crafted software with a strong focus on performance, scalability, and user experience.
 </p>
 
-
-<br>
-
 <p>
-Currently, I’m working as a Software Developer at <a target="_blank" href="https://iris-salten.no/">Iris Salten</a>, where I contribute to building effective digital tools designed to make everyday tasks easier and more efficient for employees. Our solutions not only streamline workflows within the organization but, on occasion, also provide valuable services to third parties, helping them work smarter and achieve better results.
+My primary technologies are React, TypeScript, Lua, and C#, and I enjoy building everything from modern web applications to game-related tools and backend systems. I also occasionally develop custom resources for FiveM, where I combine creativity with technical problem-solving to enhance gameplay experiences.
 </p>
 
 <br>
 
+<h2>💼 What I’m Working On</h2>
+
 <p>
-When I’m not working at Iris Salten, you’ll most likely find me immersed in one of my side projects. These are usually driven by my personal interests, curiosity, or a desire to improve existing ideas, tools, and workflows. I enjoy experimenting with new technologies, exploring creative solutions, and building things that I believe can make a difference,whether for myself, others, or the community.
+Currently, I work as a Software Developer at <a target="_blank" href="https://iris-salten.no/">Iris Salten</a>, where I contribute to building digital tools that simplify workflows and improve efficiency for employees and external users alike.
+</p>
+
+<p>
+In addition, I’m the Co-Founder & CTO of <a target="_blank" href="https://routr.no/">Routr AS</a>, a navigation app with predictive alerts designed to improve situational awareness and enhance the driving experience. My role focuses on software architecture, infrastructure, scalability, and creating reliable digital solutions.
 </p>
 
 <br>
 
-If you want to learn more check out my [Repositories](https://github.com/MathiasVoie?tab=repositories) or send me an email at `mathiasvoie@gmail.com`!
+<h2>🚀 Side Projects & Interests</h2>
+
+<p>
+Outside of work, I spend a lot of time building side projects driven by curiosity, creativity, and a passion for improving existing tools and workflows. I enjoy experimenting with new technologies, exploring innovative ideas, and creating solutions that can provide value to both individuals and communities.
+</p>
+
+<br>
+
+<h2>📫 Contact</h2>
+
+<p>
+If you’d like to learn more, feel free to check out my 
+<a target="_blank" href="https://github.com/MathiasVoie?tab=repositories">Repositories</a>
+or send me an email at <code>mathiasvoie@gmail.com</code>.
+</p>

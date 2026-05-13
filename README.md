@@ -17,7 +17,7 @@ Currently, I work as a Software Developer at <a target="_blank" href="https://ir
 </p>
 
 <p>
-In addition, I’m the Co-Founder & CTO of <a target="_blank" href="https://routr.no/">Routr AS</a>, a navigation app with predictive alerts designed to improve situational awareness and enhance the driving experience. My role focuses on software architecture, infrastructure, scalability, and creating reliable digital solutions.
+In addition, I’m the Co-Founder & CTO of <a target="_blank" href="https://routr.no/">Routr AS</a>, a navigation app with predictive alerts designed to improve situational awareness and enhance the driving experience. I’m responsible for the company’s entire technical ecosystem, including infrastructure, backend and frontend development, system architecture, scalability, reliability, deployment pipelines, and overall platform performance. From building core features and APIs to maintaining servers and ensuring high availability, I work across the full stack to create stable, modern, and scalable digital solutions.
 </p>
 
 <br>

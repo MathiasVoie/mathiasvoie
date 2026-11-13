@@ -7,35 +7,3 @@ I’m a passionate developer from Norway, and my journey in software development
 <p>
 My primary technologies are React, TypeScript, Lua, and C#, and I enjoy building everything from modern web applications to game-related tools and backend systems. I also occasionally develop custom resources for FiveM, where I combine creativity with technical problem-solving to enhance gameplay experiences.
 </p>
-
-<br>
-
-<h2>💼 What I’m Working On</h2>
-
-<p>
-Currently, I work as a Software Developer at <a target="_blank" href="https://iris-salten.no/">Iris Salten IKS</a>, where I contribute to building digital tools that simplify workflows and improve efficiency for employees and external users alike.
-</p>
-
-<br>
-
-<h2>🚀 Side Projects & Interests</h2>
-
-<p>
-Outside of work, I spend a lot of time building side projects driven by curiosity, creativity, and a passion for improving existing tools and workflows. I enjoy experimenting with new technologies, exploring innovative ideas, and creating solutions that can provide value to both individuals and communities.
-</p>
-
-<br>
-
-<h2>📫 Contact</h2>
-
-<p>
-If you’d like to learn more, feel free to check out my 
-<a target="_blank" href="https://github.com/MathiasVoie?tab=repositories">Repositories</a>
-or send me an email at <code>mathiasvoie@gmail.com</code>.
-</p>
-
-<p>
-And if that sounds a little too technical or boring, you can always stalk my 
-<a target="_blank" href="https://www.linkedin.com/in/mathiasvoie">LinkedIn</a>
-instead.
-</p>

@@ -16,10 +16,6 @@ My primary technologies are React, TypeScript, Lua, and C#, and I enjoy building
 Currently, I work as a Software Developer at <a target="_blank" href="https://iris-salten.no/">Iris Salten IKS</a>, where I contribute to building digital tools that simplify workflows and improve efficiency for employees and external users alike.
 </p>
 
-<p>
-In addition, I’m the Co-Founder & CTO of <a target="_blank" href="https://routr.no/">Routr AS</a>, a navigation app with predictive alerts designed to improve situational awareness and enhance the driving experience. I lead the company’s technical development, focusing on scalable infrastructure, platform reliability, and full-stack development.
-</p>
-
 <br>
 
 <h2>🚀 Side Projects & Interests</h2>
